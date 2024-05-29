@@ -50,7 +50,7 @@ There are four major roles in the department. The supervisor, the director, the 
 The supervisor role having the highest Agree count at 675 and director having the lowest at 92. Some of the agreed questions are question 1 which is I know what is expected of me at work, question 10 which is overall i'm satisfied with my job, question 2 which is at work i have the opportunity to do what i like to do best. and the one they disagreed with the most is question 6 which is i have a best friend at work.
 
 ### Recommendation 
-From the analysis above the employees in planning and works department disagreed about being recognized or received praise from doing good works, so i recommend an employee of the week badge be given to the best employee in planning and works department this would enable them to see that their effort are being seen. Then the sherrifs department also diagreed on being satisfied with their job so i recommend another survey be carried out to understand why they are not satisified with their job
+From the analysis above the employees in planning and works department disagreed about being recognized or received praise from doing good works, so i recommend an employee of the week badge be given to the best employee in planning and works department this would enable them to see that their effort are being seen. Then the sherrifs department also diagreed on being satisfied with their job so i recommend another survey be carried out to understand why they are not satisified with their job.
 
 ![](Thank_You.png)
 
